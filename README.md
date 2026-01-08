@@ -191,20 +191,6 @@ We welcome contributions to enhance the Gemini Clone project. To contribute:
 
 5. Create a pull request to the main repository, detailing the changes and enhancements you have made.
 
-## Contact
-
-- **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
-- **GitHub**: [RanitManik](https://github.com/RanitManik)
-- **Email**: [ranitmanik.dev@gmail.com](mailto:ranitmanik.dev@gmail.com)
-
-_Feel free to reach out if you have questions or just want to chat about web adventures!_
-
-## Acknowledgments
-
-- [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
-- [shields.io Badges](https://shields.io/)
-- [Skill Icons](https://github.com/tandpfun/skill-icons)
-
 ---
 
 <p align="center">
